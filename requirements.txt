@@ -1,0 +1,12 @@
+antiorm==1.2.1
+db==0.1.1
+db-sqlite3==0.0.1
+dj-database-url==0.4.2
+Django==1.11.4
+gunicorn==19.7.1
+olefile==0.44
+Pillow==4.2.1
+psycopg2==2.7.3.1
+pytz==2017.2
+SQLite3Database==0.2.0
+whitenoise==3.3.0
